@@ -27,23 +27,9 @@ To run this project, you need to have Python installed. It is recommended to use
     cd airbnb-price-prediction
     ```
 
-2. Create a virtual environment:
-    ```bash
-    python -m venv venv
-    ```
+2. Create a virtual environmentn with your method of choice.
 
-3. Activate the virtual environment:
-
-    - On Windows:
-      ```bash
-      venv\Scripts\activate
-      ```
-    - On macOS/Linux:
-      ```bash
-      source venv/bin/activate
-      ```
-
-4. Install the required packages:
+3. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
